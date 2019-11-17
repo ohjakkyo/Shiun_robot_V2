@@ -1,0 +1,16 @@
+{
+    "name": "Q-ter",
+    "version": "2.0.0",
+    "description": "Extension for Q-ter Robot by Mason E&D",
+    "license": "GPL",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "_locales/zh/MiniPOW-strings.json"
+    ],
+    "public": true,
+    "installedVersion": "github:jenny03056/test1f#64caebb3e8ebcebacf35bfc807e0d7929a4e58b3"
+}
