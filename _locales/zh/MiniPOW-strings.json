@@ -5,5 +5,4 @@
     "MiniPOW.motion|block": "基本動作檔 速度 %speed|動作 %direction",    
     "MiniPOW.user_motion|block": "自定義動作檔 速度 %speed|P0 動作陣列 %p0_a|P1 動作陣列 %p1_a|P2 動作陣列 %p2_a",
     "MiniPOW.motion_editor|block": "處理編輯器資料 接收資料 %speed"
-
 }
