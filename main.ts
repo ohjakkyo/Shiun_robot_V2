@@ -93,19 +93,19 @@ namespace MiniPOW {
             data_cnt += 1
         } else {
             if (data_cnt == 0) {
-                s0 = "" + s0 + r_data.charAt(index)
+                s0 = s0 + r_data.charAt(index)
             }
             if (data_cnt == 1) {
-                s1 = "" + s1 + r_data.charAt(index)
+                s1 = s1 + r_data.charAt(index)
             }
             if (data_cnt == 2) {
-                s2 = "" + s2 + r_data.charAt(index)
+                s2 = s2 + r_data.charAt(index)
             }
             if (data_cnt == 3) {
-                s3 = "" + s3 + r_data.charAt(index)
+                s3 = s3 + r_data.charAt(index)
             }
             if (data_cnt == 4) {
-                time = "" + time + r_data.charAt(index)
+                time = time + r_data.charAt(index)
             }
         }
     }
