@@ -1,7 +1,7 @@
 // Using MiniPOW to control the MiniPOW Robot (Shiun)
 // Copyright (c) 2019 Mason E&D. Copy-right All Rights Reserved. No commercial use．　
 // FB link : https://www.facebook.com/mason.chen.1420
-//% weight=12 color=#ff8533 icon="\uf2d6" block="Q-ter"
+//% weight=12 color=#ff8533 icon="\uf2d6" block="Q-ter11"
 namespace MiniPOW {
         
     let a = 0
