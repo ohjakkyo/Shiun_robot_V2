@@ -11,5 +11,5 @@
         "README.md",
         "_locales/zh/MiniPOW-strings.json"
     ],
-    "public": true,
+    "public": true
 }
