@@ -2,7 +2,7 @@
     "name": "Q-ter",
     "version": "2.0.0",
     "description": "Extension for Q-ter Robot by Mason E&D",
-    "license": "GPL",
+    "license": "MIT",
     "dependencies": {
         "core": "*"
     },
