@@ -1,5 +1,5 @@
 {    
-    "MiniPOW|block": "MiniPOW",
+    "MiniPOW|block": "Q-ter",
     "MiniPOW.start_animation|block": "開機動畫1 - |亮度調整 %bright",
     "MiniPOW.set_offset|block": "設定馬達角度校正值 - |P0 馬達 %_cal_0|P1 馬達%_cal_1|P2 馬達%_cal_2",
     "MiniPOW.motion|block": "基本動作檔 速度 %speed|動作 %direction",    
