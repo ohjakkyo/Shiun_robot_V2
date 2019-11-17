@@ -358,18 +358,18 @@ basic.showLeds(`
      * User motion extension
      * Input motion array P0/P1/P2 from motion editor
      */
-    //% blockId="user_motion" block="User Motion|Speed %speed|P0 %pa|P1 %pb|P2 %pc"
+    //% blockId="user_motion" block="User Motion|Speed %sp2|P0 %pa|P1 %pb|P2 %pc"
     //% blockGap=1 weight=70 blockExternalInputs=1
-  export function user_motion(speed: snum, pa:number[], pb:number[], pc:number[]): void {
+  export function user_motion(sp2: snum, pa:number[], pb:number[], pc:number[]): void {
 
         m_step = pa.length
-        if (speed == snum.Fast) {
+        if (sp2 == snum.Fast) {
           count = 5;
-        } else if (speed == snum.Middle) {
+        } else if (sp2 == snum.Middle) {
           count = 10;
-        } else if (speed == snum.Slow) {
+        } else if (sp2 == snum.Slow) {
           count = 15;
-        } else if (speed == snum.Editor) {
+        } else if (sp2 == snum.Editor) {
           count = 99;
         } else {
           count = 7;
