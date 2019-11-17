@@ -8,8 +8,7 @@
     },
     "files": [
         "main.ts",
-        "README.md",
-        "_locales/zh/MiniPOW-strings.json"
+        "README.md"
     ],
     "public": true
 }
