@@ -3,6 +3,6 @@
     "MiniPOW.start_animation|block": "開機動畫1 - |亮度調整 %bright",
     "MiniPOW.set_offset|block": "設定馬達角度校正值 - |P0 馬達 %_cal_0|P1 馬達%_cal_1|P2 馬達%_cal_2",
     "MiniPOW.motion|block": "基本動作檔 - |速度 %speed|動作 %direction",    
-    "MiniPOW.user_motion|block": "自定義動作檔 |速度 %speed|P0 動作陣列 %p0_a|P1 動作陣列 %p1_a|P2 動作陣列 %p2_a",
+    "MiniPOW.user_motion|block": "自定義動作檔 |速度 %sp2|P0 動作陣列 %p0_a|P1 動作陣列 %p1_a|P2 動作陣列 %p2_a",
     "MiniPOW.motion_editor|block": "處理編輯器資料 - |接收資料 %r_data"    
 }
