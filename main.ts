@@ -201,8 +201,8 @@ namespace MiniPOW {
     //% blockId="start_animation" block="Animation - |Bright %bright"
     //% weight=95
   export function start_animation(bright:number): void {
-       if (bright < 50) {
-          bright = 50
+       if (bright < 80) {
+          bright = 80
        }
        led.setBrightness(bright) 
        s90(3,90)
